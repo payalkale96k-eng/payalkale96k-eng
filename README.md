@@ -59,7 +59,7 @@ A responsive web application built using modern web technologies.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/payal-kale-8ab594393?utm_source=share_via&utm_content=profile&utm_medium=member_android*
-- 📧 Email: *payalkale96k@gamil.com*
+- 📧 Email: *payalkale96k@gmail.com*
 
 ---
 
