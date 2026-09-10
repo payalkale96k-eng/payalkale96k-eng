@@ -1,7 +1,7 @@
 # Hi, I'm Payal Kale 👋
 
 🎓 **B.Tech Student | Artificial Intelligence & Data Science**  
-💡 Passionate about AI, Data Science & Full Stack Development
+💡 Passionate about AI, Machine Learning, Data Science & Full Stack Development
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🎓 B.Tech in AI & Data Science
 - 📊 CGPA: **9.45**
-- 🤖 Learning Machine Learning & Data Analytics
+- 🤖 Learning AI-Machine Learning & Data Science
 - 🌐 Exploring Full Stack Web Development
 - 💻 Love solving real-world problems with technology
 
@@ -35,12 +35,19 @@ Data analytics dashboard for healthcare insights.
 ### 🌐 Full Stack Web Project
 A responsive web application built using modern web technologies.
 
+### 💼 Personal Portfolio
+A professional portfolio website showcasing my skills, projects, education, and achievements.
+
+### 🎓 College Event Management System
+A web-based platform for managing college events, student registrations, schedules, and certificates.
+
+
 ---
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Machine Learning
+- AI-Machine Learning
 - Full Stack Development
 - SQL & Database Management
 
@@ -53,6 +60,8 @@ A responsive web application built using modern web technologies.
 - IBM SkillsBuild
 - Infosys Springboard
 - AWS Cloud Fundamentals
+- Deloitte
+- Web Development and Designing Internship(Oasis Infobyte) 
 
 ---
 
