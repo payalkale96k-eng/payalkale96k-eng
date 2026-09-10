@@ -61,7 +61,7 @@ A web-based platform for managing college events, student registrations, schedul
 - Infosys Springboard
 - AWS Cloud Fundamentals
 - Deloitte
-- Web Development and Designing Internship(Oasis Infobyte) 
+- Web Development and Designing Internship (Oasis Infobyte) 
 
 ---
 
