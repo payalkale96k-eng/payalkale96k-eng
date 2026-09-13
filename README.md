@@ -41,6 +41,10 @@ A professional portfolio website showcasing my skills, projects, education, and 
 ### 🎓 College Event Management System
 A web-based platform for managing college events, student registrations, schedules, and certificates.
 
+### 🌡️ Temperature Converter
+
+A simple web application for converting temperatures between Celsius, Fahrenheit, and Kelvin.
+
 
 ---
 
@@ -50,6 +54,7 @@ A web-based platform for managing college events, student registrations, schedul
 - AI-Machine Learning
 - Full Stack Development
 - SQL & Database Management
+- Data Science
 
 ---
 
@@ -61,7 +66,8 @@ A web-based platform for managing college events, student registrations, schedul
 - Infosys Springboard
 - AWS Cloud Fundamentals
 - Deloitte
-- Web Development and Designing Internship (Oasis Infobyte) 
+- Web Development and Designing Internship (Oasis Infobyte)
+- Generative AI , Deep Learning , Language Modules Internship (AICTE EduSkills)
 
 ---
 
