@@ -169,16 +169,16 @@ Technologies: "HTML" "CSS" "JavaScript"
 
 ---
 
-📌 Project Portfolio
+## 🚀 Featured Projects
 
-🚀 Project| 💡 Category| 🛠️ Technologies
-🌾 RuralConnect AI| AI / Web| HTML, CSS, JS, AI/ML, APIs
-🎓 College Event Management| Web Development| HTML, CSS, JS
-💼 Personal Portfolio| Web Development| HTML, CSS, JS
-🌐 SkillNest Landing Page| Frontend| HTML, CSS, Flexbox, Grid
-🧮 Calculator| JavaScript| HTML, CSS, JS
-🌡️ Temperature Converter| JavaScript| HTML, CSS, JS
-
+| Project | Description | Technologies |
+|---|---|---|
+| 🌾 **RuralConnect AI** | Digital platform connecting rural communities with government schemes, agriculture information, weather updates and AI assistance. | HTML, CSS, JavaScript, AI/ML, APIs |
+| 🎓 **College Event Management System** | Web platform for viewing events, student registration, schedules, confirmations and certificates. | HTML, CSS, JavaScript |
+| 💼 **Personal Portfolio** | Responsive portfolio website showcasing my skills, projects, education and achievements. | HTML, CSS, JavaScript |
+| 🌐 **SkillNest – Landing Page** | Responsive learning-platform landing page developed during my Web Development Internship. | HTML5, CSS3, Flexbox, Grid |
+| 🧮 **Calculator** | Interactive calculator supporting basic arithmetic operations with a responsive interface. | HTML, CSS, JavaScript |
+| 🌡️ **Temperature Converter** | Temperature conversion application supporting Celsius, Fahrenheit and Kelvin. | HTML, CSS, JavaScript |
 ---
 
 🧠 Currently Learning
