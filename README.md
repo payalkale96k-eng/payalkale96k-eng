@@ -411,9 +411,8 @@ I believe the best way to learn technology is by **building real projects, solvi
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalkale96k-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Statistics" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalkale96k-eng&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 ---
 
