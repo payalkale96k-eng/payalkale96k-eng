@@ -411,32 +411,47 @@ I believe the best way to learn technology is by **building real projects, solvi
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalkale96k-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalkale96k-eng&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=payalkale96k-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="180"
+    alt="Payal's GitHub Stats"
+  />
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalkale96k-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180"
+    alt="Payal's Top Languages"
+  />
+</p>
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=payalkale96k-eng&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=payalkale96k-eng&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/payalkale96k-eng/payalkale96k-eng/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/payalkale96k-eng/payalkale96k-eng/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
 ---
 
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalkale96k-eng&theme=tokyo-night&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=payalkale96k-eng&theme=tokyo-night&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -444,5 +459,8 @@ I believe the best way to learn technology is by **building real projects, solvi
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payalkale96k-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=payalkale96k-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" 
+    alt="GitHub Trophies"
+  />
 </p>
