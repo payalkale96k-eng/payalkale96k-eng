@@ -316,16 +316,6 @@ I believe the best way to learn technology is by **building real projects, solvi
 
 </p>
 
-### 🎯 My Priorities
-
-- Strengthen programming fundamentals
-- Practice DSA consistently
-- Build real-world projects
-- Improve AI/ML knowledge
-- Learn Data Science & Analytics
-- Improve Full Stack Development
-- Build a strong GitHub portfolio
-- Prepare for internships and placements
 
 ---
 
