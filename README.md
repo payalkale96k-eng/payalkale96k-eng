@@ -141,7 +141,7 @@ A web-based platform for managing college events and student registrations.
 ---
 
 
-## 🌐 4. Personal Portfolio Website
+## 🌐 3. Personal Portfolio Website
 
 A professional portfolio website showcasing my:
 
