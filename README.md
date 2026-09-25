@@ -140,22 +140,6 @@ A web-based platform for managing college events and student registrations.
 
 ---
 
-## 🧮 3. Calculator
-
-A responsive calculator application developed to practice JavaScript logic and DOM manipulation.
-
-### Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Responsive Interface
-- Interactive Buttons
-
-**Technologies:** HTML, CSS, JavaScript
-
----
 
 ## 🌐 4. Personal Portfolio Website
 
@@ -171,44 +155,6 @@ A professional portfolio website showcasing my:
 
 **Technologies:** HTML, CSS, JavaScript
 
----
-
-## 🚀 5. SkillNest – Learn. Build. Grow.
-
-A modern responsive landing page developed during my **Web Development & Designing Internship at Oasis Infobyte**.
-
-### Features
-
-- 📌 Sticky Navigation
-- 🎯 Hero Section
-- 🔥 Call-to-Action Buttons
-- ⭐ Features Section
-- 👩‍💻 About Section
-- 💬 Testimonials
-- 📩 Contact Section
-- 📱 Responsive Design
-
-**Technologies:** HTML5, CSS3, Flexbox, CSS Grid
-
-🔗 Live Demo:  
-https://payalkale96k-eng.github.io/OIBSIP/
-
----
-
-## 🌡️ 6. Temperature Converter
-
-A responsive temperature conversion web application.
-
-### Supports
-
-- Celsius → Fahrenheit
-- Fahrenheit → Celsius
-- Celsius → Kelvin
-- Kelvin → Celsius
-- Instant Conversion
-- Responsive UI
-
-**Technologies:** HTML, CSS, JavaScript
 
 ---
 
