@@ -101,20 +101,9 @@
 
 
 
-# 📜 Certifications & Professional Learning
 
-- 🤖 AI-ML Virtual Internship – AICTE EduSkills
-- 📊 Data Analytics Internship – Oasis Infobyte
-- 🌐 Web Development & Designing Internship – Oasis Infobyte
-- 💻 IBM SkillsBuild
-- 🧑‍💻 Infosys Springboard
-- ☁️ AWS Cloud Fundamentals
-- 📈 Deloitte
-- 🤖 Generative AI
-- 🧠 Deep Learning
-- 📚 Language Modules Internship – AICTE EduSkills
 
----
+
 
 # 🎯 Career Interests
 
@@ -133,9 +122,7 @@ I am building my career around the intersection of **software development, data 
 
 ---
 
----
 
----
 
 # 🧠 Developer Mindset
 
