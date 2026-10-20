@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Python+%7C+AI%2FML+%7C+DSA;Data+Science+%7C+Data+Analytics;Full+Stack+Web+Development;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=payalkale96k-eng&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="https://github.com/payalkale96k-eng">
