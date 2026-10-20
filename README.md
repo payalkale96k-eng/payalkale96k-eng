@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Payal Kale
 
 <p align="center">
@@ -5,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=payalkale96k-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=payalkale96k-eng&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -54,19 +55,19 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🤖 AI / ML / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 - Artificial Intelligence
@@ -79,7 +80,7 @@
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 - SQL
@@ -88,7 +89,7 @@
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 - Git
@@ -98,12 +99,6 @@
 - Responsive Web Design
 
 ---
-
-
-
-
-
-
 
 # 🎯 Career Interests
 
@@ -122,22 +117,20 @@ I am building my career around the intersection of **software development, data 
 
 ---
 
-
-
 # 🧠 Developer Mindset
 
 <table>
-<tr>
-<td align="center">📚<br><b>Learn</b></td>
-<td>→</td>
-<td align="center">💻<br><b>Build</b></td>
-<td>→</td>
-<td align="center">🐞<br><b>Debug</b></td>
-<td>→</td>
-<td align="center">🚀<br><b>Improve</b></td>
-<td>→</td>
-<td align="center">🔁<br><b>Repeat</b></td>
-</tr>
+  <tr>
+    <td align="center">📚<br><b>Learn</b></td>
+    <td>→</td>
+    <td align="center">💻<br><b>Build</b></td>
+    <td>→</td>
+    <td align="center">🐞<br><b>Debug</b></td>
+    <td>→</td>
+    <td align="center">🚀<br><b>Improve</b></td>
+    <td>→</td>
+    <td align="center">🔁<br><b>Repeat</b></td>
+  </tr>
 </table>
 
 I believe the best way to learn technology is by **building real projects, solving problems, debugging mistakes, and continuously improving.**
@@ -173,22 +166,22 @@ I believe the best way to learn technology is by **building real projects, solvi
 # 🎯 Career Interests
 
 <table>
-<tr>
-<td>🤖 <b>Artificial Intelligence & Machine Learning</b></td>
-<td>📊 <b>Data Science</b></td>
-</tr>
-<tr>
-<td>📈 <b>Data Analytics</b></td>
-<td>🌐 <b>Full Stack Development</b></td>
-</tr>
-<tr>
-<td>🐍 <b>Python Development</b></td>
-<td>🧠 <b>Data Structures & Algorithms</b></td>
-</tr>
-<tr>
-<td>🗄️ <b>SQL & Databases</b></td>
-<td>💡 <b>Real-World Problem Solving</b></td>
-</tr>
+  <tr>
+    <td>🤖 <b>Artificial Intelligence & Machine Learning</b></td>
+    <td>📊 <b>Data Science</b></td>
+  </tr>
+  <tr>
+    <td>📈 <b>Data Analytics</b></td>
+    <td>🌐 <b>Full Stack Development</b></td>
+  </tr>
+  <tr>
+    <td>🐍 <b>Python Development</b></td>
+    <td>🧠 <b>Data Structures & Algorithms</b></td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>SQL & Databases</b></td>
+    <td>💡 <b>Real-World Problem Solving</b></td>
+  </tr>
 </table>
 
 ---
@@ -212,7 +205,6 @@ I believe the best way to learn technology is by **building real projects, solvi
 **🌐 Full Stack Development**
 
 </p>
-
 
 ---
 
@@ -241,20 +233,25 @@ I believe the best way to learn technology is by **building real projects, solvi
 
 ---
 
-
-
-
 # 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=payalkale96k-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=payalkale96k-eng&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=payalkale96k-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=payalkale96k-eng&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=payalkale96k-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=payalkale96k-eng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
